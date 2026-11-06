@@ -167,6 +167,18 @@ img {
   font-family: var(--second-font);
 }
 
+.nav__toggle {
+  width: 32px;
+  height: 32px;
+  background-color: var(--first-color);
+  color: var(--white-color);
+  border-radius: 0.5rem;
+  display: grid;
+  place-items: center;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
