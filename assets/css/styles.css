@@ -258,5 +258,10 @@ img {
 /* For medium devices <> */
 
 /* For large devices <> */
+@media screen and (width >= 1150px) {
+  .nav {
+    height: calc(var(--header-height));
+  }
+}
 
 /* For 2K resolutions <> */
