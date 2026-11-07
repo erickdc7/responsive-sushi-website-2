@@ -260,7 +260,7 @@ img {
 /* For large devices <> */
 @media screen and (width >= 1150px) {
   .nav {
-    height: calc(var(--header-height));
+    height: calc(var(--header-height) + 2rem);
   }
 }
 
