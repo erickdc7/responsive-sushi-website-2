@@ -211,6 +211,16 @@ img {
   color: var(--first-color);
 }
 
+.nav__close {
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+  display: inline-flex;
+  font-size: 1.5rem;
+  color: var(--title-color);
+  cursor: pointer;
+}
+
 /* Show menu */
 
 /* Change header styles */
