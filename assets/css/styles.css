@@ -267,6 +267,11 @@ img {
   .nav__close {
     display: none;
   }
+
+  .nav__list {
+    flex-direction: row;
+    column-gap: 4rem;
+  }
 }
 
 /* For 2K resolutions <> */
