@@ -259,6 +259,10 @@ img {
 
 /* For large devices <> */
 @media screen and (width >= 1150px) {
+  .container {
+    margin-inline: auto;
+  }
+
   .nav {
     height: calc(var(--header-height) + 2rem);
   }
