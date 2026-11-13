@@ -253,6 +253,11 @@ img {
   margin-block: 1rem 2rem;
 }
 
+.home__data img,
+.home__text {
+  position: absolute;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT SECTION ===============*/
