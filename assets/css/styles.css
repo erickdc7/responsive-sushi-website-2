@@ -258,6 +258,12 @@ img {
   position: absolute;
 }
 
+.home__flower-1 {
+  width: 20px;
+  top: -1.5rem;
+  left: 4rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT SECTION ===============*/
