@@ -241,6 +241,10 @@ img {
   text-align: center;
 }
 
+.home__title {
+  font-size: var(--biggest-font-size);
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT SECTION ===============*/
