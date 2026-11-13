@@ -249,6 +249,10 @@ img {
   color: var(--first-color);
 }
 
+.home__description {
+  margin-block: 1rem 2rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT SECTION ===============*/
