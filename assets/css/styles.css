@@ -245,6 +245,10 @@ img {
   font-size: var(--biggest-font-size);
 }
 
+.home__title span {
+  color: var(--first-color);
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT SECTION ===============*/
