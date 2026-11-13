@@ -304,6 +304,11 @@ img {
     box-shadow 0.4s;
 }
 
+.button:hover {
+  background-color: var(--first-color-alt);
+  box-shadow: 0 8px 24px hsla(358, 54%, 24%, 0.3);
+}
+
 /*=============== ABOUT SECTION ===============*/
 
 /*=============== MENU SECTION ===============*/
