@@ -296,6 +296,12 @@ img {
   justify-self: center;
 }
 
+.home__img-1 {
+  width: 230px;
+  left: -1.5rem;
+  bottom: 3rem;
+}
+
 .home__blob {
   width: 300px;
   height: 300px;
