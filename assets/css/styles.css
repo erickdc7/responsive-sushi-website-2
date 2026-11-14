@@ -344,6 +344,18 @@ img {
   bottom: -0.75rem;
 }
 
+.home__flower-3 {
+  width: 20px;
+  top: -1rem;
+  right: 1rem;
+}
+
+.home__flower-4 {
+  width: 20px;
+  left: 0;
+  bottom: 0;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;
