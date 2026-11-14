@@ -304,6 +304,10 @@ img {
   justify-self: center;
 }
 
+.home__images img {
+  position: absolute;
+}
+
 .home__img-1 {
   width: 230px;
   left: -1.5rem;
