@@ -332,6 +332,18 @@ img {
   right: 4.5rem;
 }
 
+.home__img-5 {
+  width: 50px;
+  right: 1.5rem;
+  bottom: 7rem;
+}
+
+.home__img-6 {
+  width: 150px;
+  right: 4rem;
+  bottom: -0.75rem;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;
