@@ -302,6 +302,12 @@ img {
   bottom: 3rem;
 }
 
+.home__img-2 {
+  width: 120px;
+  top: 0.5rem;
+  left: 2rem;
+}
+
 .home__blob {
   width: 300px;
   height: 300px;
