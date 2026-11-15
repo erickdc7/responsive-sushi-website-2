@@ -356,6 +356,12 @@ img {
   bottom: 0;
 }
 
+.home__leaf-3 {
+  width: 25px;
+  right: 1rem;
+  bottom: 1.5rem;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;
