@@ -425,6 +425,10 @@ img {
     padding-block: 7rem 5rem;
   }
 
+  .section__title {
+    font-size: var(--biggest-font-size);
+  }
+
   .nav {
     height: calc(var(--header-height) + 2rem);
   }
