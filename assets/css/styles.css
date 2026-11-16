@@ -429,6 +429,10 @@ img {
     font-size: var(--biggest-font-size);
   }
 
+  .section__subtitle {
+    font-size: var(--h3-font-size);
+  }
+
   .nav {
     height: calc(var(--header-height) + 2rem);
   }
