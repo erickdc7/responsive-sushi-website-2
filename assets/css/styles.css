@@ -458,6 +458,10 @@ img {
     text-align: initial;
     margin-bottom: 4rem;
   }
+
+  .home__description {
+    margin: 1rem 3.5rem 3.5rem 0;
+  }
 }
 
 /* For 2K resolutions <> */
