@@ -487,6 +487,11 @@ img {
     left: 2.5rem;
     bottom: -6rem;
   }
+
+  .home__text {
+    font-size: 17rem;
+    top: -8rem;
+  }
 }
 
 /* For 2K resolutions <> */
