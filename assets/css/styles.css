@@ -480,6 +480,13 @@ img {
     top: 0.5rem;
     right: 2.5rem;
   }
+
+  .home__leaf-2 {
+    width: 40px;
+    top: initial;
+    left: 2.5rem;
+    bottom: -6rem;
+  }
 }
 
 /* For 2K resolutions <> */
