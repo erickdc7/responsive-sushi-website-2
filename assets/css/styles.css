@@ -503,6 +503,12 @@ img {
     left: -5rem;
     bottom: 5rem;
   }
+
+  .home__img-2 {
+    width: 240px;
+    top: 1rem;
+    left: 4rem;
+  }
 }
 
 /* For 2K resolutions <> */
