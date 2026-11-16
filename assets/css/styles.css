@@ -462,6 +462,12 @@ img {
   .home__description {
     margin: 1rem 3.5rem 3.5rem 0;
   }
+
+  .home__flower-1 {
+    width: 30px;
+    top: -2.5rem;
+    left: 1.5rem;
+  }
 }
 
 /* For 2K resolutions <> */
