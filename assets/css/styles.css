@@ -492,6 +492,11 @@ img {
     font-size: 17rem;
     top: -8rem;
   }
+
+  .home__blob {
+    width: 580px;
+    height: 580px;
+  }
 }
 
 /* For 2K resolutions <> */
