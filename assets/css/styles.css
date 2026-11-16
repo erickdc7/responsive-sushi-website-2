@@ -497,6 +497,12 @@ img {
     width: 580px;
     height: 580px;
   }
+
+  .home__img-1 {
+    width: 460px;
+    left: -5rem;
+    bottom: 5rem;
+  }
 }
 
 /* For 2K resolutions <> */
