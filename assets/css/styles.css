@@ -515,6 +515,12 @@ img {
     top: 10.5rem;
     right: 5.5rem;
   }
+
+  .home__img-4 {
+    width: 120px;
+    top: 3rem;
+    right: 8rem;
+  }
 }
 
 /* For 2K resolutions <> */
