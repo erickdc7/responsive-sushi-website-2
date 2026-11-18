@@ -533,6 +533,11 @@ img {
     right: 8rem;
     bottom: -4rem;
   }
+
+  .home__flower-3 {
+    width: 30px;
+    right: 6.5rem;
+  }
 }
 
 /* For 2K resolutions <> */
