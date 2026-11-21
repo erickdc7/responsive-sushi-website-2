@@ -431,6 +431,11 @@ img {
   z-index: -1;
 }
 
+.about__images {
+  position: relative;
+  justify-self: center;
+}
+
 /*=============== MENU SECTION ===============*/
 
 /* Swiper class */
