@@ -389,6 +389,11 @@ img {
   padding-bottom: 3rem;
 }
 
+.about__data {
+  position: relative;
+  text-align: center;
+}
+
 /*=============== MENU SECTION ===============*/
 
 /* Swiper class */
