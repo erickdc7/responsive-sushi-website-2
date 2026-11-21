@@ -398,6 +398,11 @@ img {
   margin-bottom: 2rem;
 }
 
+.about__data img,
+.about__text {
+  position: absolute;
+}
+
 /*=============== MENU SECTION ===============*/
 
 /* Swiper class */
