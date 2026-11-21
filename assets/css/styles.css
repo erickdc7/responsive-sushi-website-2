@@ -384,6 +384,10 @@ img {
 }
 
 /*=============== ABOUT SECTION ===============*/
+.about__container {
+  row-gap: 3rem;
+  padding-bottom: 3rem;
+}
 
 /*=============== MENU SECTION ===============*/
 
