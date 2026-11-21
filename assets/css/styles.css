@@ -403,6 +403,12 @@ img {
   position: absolute;
 }
 
+.about__flower-1 {
+  width: 20px;
+  top: 0.5rem;
+  right: 2rem;
+}
+
 /*=============== MENU SECTION ===============*/
 
 /* Swiper class */
