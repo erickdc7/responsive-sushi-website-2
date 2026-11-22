@@ -626,6 +626,13 @@ img {
     width: 35px;
     bottom: 2.5rem;
   }
+
+  .about__container {
+    grid-template-columns: 350px 530px;
+    column-gap: 13rem;
+    align-items: center;
+    padding-block: 2rem 5rem;
+  }
 }
 
 /* For 2K resolutions <> */
