@@ -436,6 +436,14 @@ img {
   justify-self: center;
 }
 
+.about__blob {
+  width: 200px;
+  height: 320px;
+  background-color: var(--first-color);
+  border-radius: 1rem;
+  margin-left: 4rem;
+}
+
 /*=============== MENU SECTION ===============*/
 
 /* Swiper class */
