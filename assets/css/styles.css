@@ -633,6 +633,11 @@ img {
     align-items: center;
     padding-block: 2rem 5rem;
   }
+
+  .about__data {
+    order: 1;
+    text-align: initial;
+  }
 }
 
 /* For 2K resolutions <> */
