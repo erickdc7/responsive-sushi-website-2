@@ -671,6 +671,12 @@ img {
     bottom: -9rem;
     left: -1.5rem;
   }
+
+  .about__blob {
+    width: 350px;
+    height: 560px;
+    margin-left: 0;
+  }
 }
 
 /* For 2K resolutions <> */
