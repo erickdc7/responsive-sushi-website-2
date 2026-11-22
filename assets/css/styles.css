@@ -444,6 +444,16 @@ img {
   margin-left: 4rem;
 }
 
+.about__img {
+  position: absolute;
+  max-width: initial;
+  width: 230px;
+  top: 0;
+  bottom: 0;
+  margin-block: auto;
+  right: 2rem;
+}
+
 /*=============== MENU SECTION ===============*/
 
 /* Swiper class */
