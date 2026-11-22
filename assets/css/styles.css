@@ -477,6 +477,10 @@ img {
     width: 280px;
     height: 280px;
   }
+
+  .about__text {
+    font-size: 8rem;
+  }
 }
 
 /* For medium devices <> */
