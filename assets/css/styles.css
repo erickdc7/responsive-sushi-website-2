@@ -651,6 +651,12 @@ img {
     width: 30px;
     right: 9rem;
   }
+
+  .about__flower-2 {
+    width: 30px;
+    bottom: -5rem;
+    left: 0;
+  }
 }
 
 /* For 2K resolutions <> */
