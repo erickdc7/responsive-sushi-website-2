@@ -677,6 +677,11 @@ img {
     height: 560px;
     margin-left: 0;
   }
+
+  .about__img {
+    width: 420px;
+    right: -6rem;
+  }
 }
 
 /* For 2K resolutions <> */
