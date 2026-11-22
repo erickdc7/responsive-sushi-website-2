@@ -664,6 +664,13 @@ img {
     bottom: 0;
     margin-block: auto;
   }
+
+  .about__text {
+    font-size: 17rem;
+    white-space: nowrap;
+    bottom: -9rem;
+    left: -1.5rem;
+  }
 }
 
 /* For 2K resolutions <> */
