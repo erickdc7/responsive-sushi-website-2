@@ -638,6 +638,10 @@ img {
     order: 1;
     text-align: initial;
   }
+
+  .about__data :is(.section__title, .section__subtitle) {
+    text-align: initial;
+  }
 }
 
 /* For 2K resolutions <> */
