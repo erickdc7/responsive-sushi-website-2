@@ -657,6 +657,13 @@ img {
     bottom: -5rem;
     left: 0;
   }
+
+  .about__leaf {
+    width: 40px;
+    top: 0;
+    bottom: 0;
+    margin-block: auto;
+  }
 }
 
 /* For 2K resolutions <> */
